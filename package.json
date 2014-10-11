@@ -1,0 +1,17 @@
+{
+  "name": "converter",
+  "description": "",
+  "author": "Cris Mihalache <cris@spectrumcoding.com>",
+  "version": "0.0.1",
+  "private": true,
+  "engine": "node >= 0.10.12",
+  "main": "converter.coffee",
+  "dependencies": {
+    "spew": "~0.1.1",
+    "lodash": "~2.4.1",
+    "numeral": "~1.5.3",
+    "string": "~1.9.0",
+    "threads_a_gogo": "~0.1.7",
+    "async": "~0.9.0"
+  }
+}
